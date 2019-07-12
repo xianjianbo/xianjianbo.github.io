@@ -1,0 +1,4 @@
+<a href="https://zhihu.com/people/{{ include.username }}">
+  <span class="icon icon--zhihu">{% include icon-zhihu.svg %}</span>
+  <span class="label">{{ include.label | default: include.username }}</span>
+</a>
