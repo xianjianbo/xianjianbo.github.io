@@ -1,7 +1,7 @@
 ---
-title: About
+title: About Me
 layout: about
-permalink: /about/
+permalink: /about-me/
 ---
 
 Xian Jianbo, Student (2016.09 - Present) in Computer Science at Beijing Forestry University (北京林业大学) with programming skills in diverse languages and experience in industrial and research settings. 
