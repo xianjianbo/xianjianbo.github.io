@@ -56,8 +56,14 @@ main {
   }
 }
 
+.masthead-style {
+  max-width: $large;
+}
+
 .inner {
   max-width: $large;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 /*
