@@ -55,13 +55,14 @@ paginate: 10
 paginate_path: /page:num/
 show_excerpts: # false
 
-copyright: "© 2019 Xian Jianbo.<br>Powered by Jekyll."
+copyright: "© 2019 Xian Jianbo · Powered by Jekyll"
 google_analytics: UA-143709857-1
 
 # Exclude from processing.
 exclude:
   - .asset-cache
   - .bundle
+  - .git
   - .codeclimate.yml
   - .editorconfig
   - .gitattributes
