@@ -50,7 +50,7 @@ plugins: # previsously gems
 feed:
   path: atom.xml
 
-words_per_minute: 20
+words_per_minute: 1
   
 # Pagination - https://jekyllrb.com/docs/pagination/
 paginate: 10
