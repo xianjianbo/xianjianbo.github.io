@@ -60,11 +60,16 @@ main {
 .masthead-style {
   max-width: $large;
 }
+/*单独设置网站logo和name的布局，使其不局中*/
+
 
 .inner {
   max-width: $large;
+  
   margin-left: auto;
   margin-right: auto;
+  /*网站整体居中*/
+  
 }
 
 /*
@@ -76,6 +81,10 @@ main {
   .entry-content {
     @include breakpoint($large) {
       width: span(14 of 16);
+	  
+	  margin-left: auto;
+      margin-right: auto;
+	  /*文章正文内容居中*/
     }
   }
 }

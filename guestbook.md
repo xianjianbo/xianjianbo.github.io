@@ -9,4 +9,4 @@ Look around and have a sit.
 
 来了，就留下你的足迹吧。
 
-(ps: Comment system is on the way...)
+ps: Comment system is on the way...

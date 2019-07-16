@@ -20,7 +20,7 @@ description: 先剑波的博客
 baseurl: # the optional subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
-  name: 剑波
+  name: Xian Jianbo
   picture: /assets/images/avatar-3-300px.jpg
   twitter: 
 twitter_username: xianjianbo
@@ -50,15 +50,19 @@ plugins: # previsously gems
 feed:
   path: atom.xml
 
-words_per_minute: 1
+words_per_minute: 200
   
 # Pagination - https://jekyllrb.com/docs/pagination/
 paginate: 10
 paginate_path: /page:num/
-show_excerpts: # false
+show_excerpts: false
 
 copyright: "© 2019 Xian Jianbo · Powered by Jekyll"
 google_analytics: UA-143709857-1
+
+# Disqus comment system
+disqus:
+    shortname: xianjianbo
 
 # Exclude from processing.
 exclude:

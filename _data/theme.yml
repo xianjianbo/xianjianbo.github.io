@@ -16,12 +16,13 @@ t:
   newer: "Newer"
   older: "Older"
   email: "Email"
-  subscribe: "Subscribe"
+  subscribe: "RSS"
   read_more: "Read More"
   posts: "Posts"
   page: "Page"
   of: "of"
   min_read: "min read"
+  words: "words"
   present: "Present"
 
 # Google Fonts
