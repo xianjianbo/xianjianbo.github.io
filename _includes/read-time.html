@@ -7,7 +7,7 @@
 {% endif %}
 
 {% if words < words_per_minute %}
-  ~1 {{ site.data.theme.t.words | default: 'words' }}
+  ~1 {{ site.data.theme.t.read_time | default: 'min read' }}
 {% else %}
   {{ words }} {{ site.data.theme.t.words | default: 'words' }}, {{ words | divided_by:words_per_minute }} {{ site.data.theme.t.read_time | default: 'min read' }}
 {% endif %}

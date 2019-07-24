@@ -89,6 +89,17 @@ main {
   }
 }
 
+.layout--post{
+  .entry-content {
+    @include breakpoint($large) {
+      width: span(14 of 16);
+	  
+	  margin-bottom: 3em;
+	  /*文章与评论之间间隙*/
+    }
+  }
+}
+
 .layout--about {
   .entry-wrap {
     display: -ms-flexbox;
