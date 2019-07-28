@@ -6,7 +6,7 @@ permalink: /about/
 
 ## Me
 
-Xian Jianbo (先剑波), Student (2016.09 - Present) majoring in Computer Science at Beijing Forestry University (北京林业大学) with programming skills in diverse languages and some research experiences in Social Networks and Building Information Modeling. 
+Xian Jianbo (先剑波), Student (2016.09 - Present) majoring in Computer Science at Beijing Forestry University (北京林业大学) with some research experiences in Social Networks and Building Information Modeling. 
 
 Address: School of Information and Technology, Beijing Forestry University,
 
