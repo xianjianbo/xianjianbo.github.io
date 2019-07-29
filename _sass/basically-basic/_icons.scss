@@ -34,7 +34,8 @@
 	(weibo, #e6162d),
     (xing, #005a5f),
     (youtube, #cd201f),
-	(zhihu, #0f88eb)
+	(zhihu, #0f88eb),
+	(douban, #58ab64)
   );
 
   @each $icon, $color in $icons {

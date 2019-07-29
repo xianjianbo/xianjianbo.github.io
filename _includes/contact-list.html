@@ -20,6 +20,10 @@
     <li>{% include icon-zhihu.html username=site.zhihu_username label='Zhihu' %}</li>
   {% endif %}
   
+  {% if site.douban_username %}
+    <li>{% include icon-douban.html username=site.douban_username label='Douban' %}</li>
+  {% endif %}
+  
   {% if site.facebook_username %}
     <li>{% include icon-facebook.html username=site.facebook_username label='Facebook' %}</li>
   {% endif %}

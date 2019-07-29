@@ -1,0 +1,4 @@
+<a href="https://www.douban.com/people/{{ include.username }}">
+  <span class="icon icon--douban">{% include icon-douban.svg %}</span>
+  <span class="label">{{ include.label | default: include.username }}</span>
+</a>
