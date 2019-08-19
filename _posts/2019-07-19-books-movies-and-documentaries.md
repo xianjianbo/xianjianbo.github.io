@@ -1,6 +1,6 @@
 ---
 title: "书籍，电影和纪录片"
-last_modified_at: 2019-07-19T22:26:27+08:00
+last_modified_at: 2019-08-19T22:26:27+08:00
 ---
 
 ## 书籍
@@ -45,6 +45,12 @@ last_modified_at: 2019-07-19T22:26:27+08:00
 * 2001太空漫游
 * 关于莉莉周的一切
 * 花与爱丽丝
+* 我们天上见
+* 那山那人那狗
+* 遥望南方的童年
+* 鬼子来了
+* 太阳照常升起
+
 
 ## 电视剧
 
@@ -60,9 +66,8 @@ last_modified_at: 2019-07-19T22:26:27+08:00
 * 人生七年
 * 如何死亡：西蒙的抉择
 * 中国市长
-* 脉动地球
 
-以及优质的YouTube/bilibili频道，微信订阅号
+**以及**
 
 ## 频道
 
@@ -84,3 +89,11 @@ last_modified_at: 2019-07-19T22:26:27+08:00
 * 毕导
 * 虎嗅APP
 * 知识分子
+
+## 媒体
+
+* [爱思想](http://www.aisixiang.com/)
+* [The Verge](https://www.theverge.com/)
+* [VICE](http://www.vice.cn)
+* [少数派](https://sspai.com)
+* [科学网](http://www.sciencenet.cn/)
