@@ -45,6 +45,6 @@ last_modified_at: 2019-10-14T13:14:45+08:00
 
 ![avatar](/assets/images/Qinghuangdao/15.jpg)
 
-<p>/assets/audio/TheSunAlsoRises.mp3</p>
+<p>https://link.hhtjim.com/163/441722.mp3</p>
 
 ##### Photo by zyf, xjb
