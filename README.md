@@ -1,4 +1,4 @@
-# [Xian Jianbo's Blog](https://xianjianbo.github.io/)
+# [Jianbo's Blog](https://xianjianbo.github.io/)
 
 
 ## About
