@@ -68,12 +68,12 @@ last_modified_at: 2019-09-01T13:57:55+08:00
 
 ##### 浏览更多：
 
-* [Education. Petefrates.com](https://petefrates.com/education/)
+* [Petefrates.com. Education.](https://petefrates.com/education/)
 
 ##### 参考资料：
 
-* [Motor neurone disease (MND). NHS inform.](https://www.nhsinform.scot/illnesses-and-conditions/brain-nerves-and-spinal-cord/motor-neurone-disease-mnd)
-* [Motor neurone disease. NHS.](https://www.nhs.uk/conditions/motor-neurone-disease/)
-* [Motor Neuron Diseases Fact Sheet. NINDS.](https://www.ninds.nih.gov/Disorders/Patient-Caregiver-Education/Fact-Sheets/Motor-Neuron-Diseases-Fact-Sheet.)
-* [What is MND. The Motor Neurone Disease Association.](https://www.mndassociation.org/about-mnd/what-is-mnd/)
-* [What is ALS. The ALS Association.](http://www.alsa.org/about-als/what-is-als.html) 
+* [NHS inform. Motor neurone disease (MND).](https://www.nhsinform.scot/illnesses-and-conditions/brain-nerves-and-spinal-cord/motor-neurone-disease-mnd)
+* [NHS. Motor neurone disease.](https://www.nhs.uk/conditions/motor-neurone-disease/)
+* [NINDS. Motor Neuron Diseases Fact Sheet.](https://www.ninds.nih.gov/Disorders/Patient-Caregiver-Education/Fact-Sheets/Motor-Neuron-Diseases-Fact-Sheet.)
+* [The Motor Neurone Disease Association. What is MND.](https://www.mndassociation.org/about-mnd/what-is-mnd/)
+* [The ALS Association. What is ALS.](http://www.alsa.org/about-als/what-is-als.html) 

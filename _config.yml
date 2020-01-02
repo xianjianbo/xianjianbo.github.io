@@ -57,7 +57,7 @@ paginate: 10
 paginate_path: /page:num/
 show_excerpts: false
 
-copyright: "Copyright © 2019 Xian Jianbo · Powered by Jekyll"
+copyright: "Copyright © 2019-2020 Xian Jianbo · Powered by Jekyll"
 google_analytics: UA-143709857-1
 
 # Disqus comment system
