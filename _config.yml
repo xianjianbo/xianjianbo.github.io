@@ -21,8 +21,8 @@ baseurl: # the optional subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
   name: Xian Jianbo
-  picture: /assets/images/avatar-3-300px.jpg
   twitter: 
+  picture: /assets/images/avatar-3-300px.jpg
 twitter_username: xianjianbo
 github_username: xianjianbo
 facebook_username: jianbo.xian
@@ -42,6 +42,7 @@ algolia:
 
 # Build settings
 markdown: kramdown
+theme: jekyll-theme-basically-basic
 plugins: # previsously gems
   - jekyll-feed
   - jekyll-seo-tag
@@ -51,13 +52,13 @@ feed:
   path: atom.xml
 
 words_per_minute: 200
-  
+
 # Pagination - https://jekyllrb.com/docs/pagination/
 paginate: 10
 paginate_path: /page:num/
 show_excerpts: false
 
-copyright: "Copyright © 2019-2020 Xian Jianbo · Powered by Jekyll"
+copyright: "Copyright © 2019-2021 Xian Jianbo · Powered by Jekyll"
 google_analytics: UA-143709857-1
 
 # Disqus comment system
@@ -68,7 +69,6 @@ disqus:
 exclude:
   - .asset-cache
   - .bundle
-  - .git
   - .codeclimate.yml
   - .editorconfig
   - .gitattributes
@@ -98,4 +98,3 @@ defaults:
     values:
       layout: post
       read_time: true
-      

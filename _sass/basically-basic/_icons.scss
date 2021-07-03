@@ -31,11 +31,11 @@
     (stackoverflow, #fe7a16),
     (tumblr, #36465d),
     (twitter, #1da1f2),
-	(weibo, #e6162d),
+  	(weibo, #e6162d),
     (xing, #005a5f),
     (youtube, #cd201f),
-	(zhihu, #0f88eb),
-	(douban, #58ab64)
+	  (zhihu, #0f88eb),
+	  (douban, #58ab64)
   );
 
   @each $icon, $color in $icons {

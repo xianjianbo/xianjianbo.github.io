@@ -1,3 +1,3 @@
-source "https://gems.ruby-china.com"
-
-gem "jekyll-theme-basically-basic"
+source "https://rubygems.org"
+gemspec
+gem "webrick", "~> 1.7"
