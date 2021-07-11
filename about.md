@@ -6,17 +6,20 @@ permalink: /about/
 
 ## Me
 
-Xian Jianbo
+Xian Jianbo, born and brought up in Hejiang, a small county near Changjiang River in the southeast of Sichuan Province, China.
 
-Engineer at Baidu (2020.07 - present). 
+Revieced a Bachelor of Engineer in Computer Science and Technology from Beijing Forestry University. 
 
-Bachelor of Engineer in Computer Science and Technology, Beijing Forestry University (2016.09 - 2020.06). 
+Currently an Engineer at Baidu, focus on Golang and Data Analysis. 
+
+Love Rock music (The Cure/Beach house...) , curious about everything.
 
 Find more at: 
 * [Douban](https://www.douban.com/people/129093748/)
 * [Weibo](https://weibo.com/xianjianbo)
 * [Facebook](https://www.facebook.com/jianbo.xian)
 
+Please feel free to contact me :)
 
 ## Why Blog
 
