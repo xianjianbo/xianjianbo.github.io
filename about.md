@@ -6,22 +6,21 @@ permalink: /about/
 
 ## Me
 
-Xian Jianbo (先剑波), Student (2016.09 - Present) majoring in Computer Science and Technology at Beijing Forestry University (北京林业大学). 
+Xian Jianbo
 
-Address: School of Information Science and Technology, Beijing Forestry University,
+Engineer at Baidu (2020.07 - present). 
 
-35# Qinghua East Road, Haidian District, Beijing, China.
+Bachelor of Engineer in Computer Science and Technology, Beijing Forestry University (2016.09 - 2020.06). 
 
 Find more at: 
-
 * [Douban](https://www.douban.com/people/129093748/)
 * [Weibo](https://weibo.com/xianjianbo)
 * [Facebook](https://www.facebook.com/jianbo.xian)
 
 
-## Why Blogging
+## Why Blog
 
-Recording.
+Recording, and maybe sharing.
 
 
 ## License
