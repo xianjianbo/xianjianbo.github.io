@@ -30,7 +30,7 @@ instagram_username:
 weibo_username: # xianjianbo
 zhihu_username: xian-jian-bo
 douban_username: # 129093748
-logo: /assets/images/avatar-1-285px.png # path of site logo, e.g. "/assets/images/logo.png"
+logo: #/assets/images/avatar-1-285px.png # path of site logo, e.g. "/assets/images/logo.png"
 search: true # true, false (default)
 search_full_content: true # true, false (default)
 search_provider: # lunr (default), algolia
