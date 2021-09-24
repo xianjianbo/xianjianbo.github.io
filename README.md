@@ -3,9 +3,9 @@
 
 ## About
 
-The blog is based on mmistakes' contribution for [jekyll-theme-basically-basic](https://github.com/mmistakes/jekyll-theme-basically-basic).
+This blog is based on mmistakes' contribution for [jekyll-theme-basically-basic](https://github.com/mmistakes/jekyll-theme-basically-basic).
 
-Also refer to layout codes of 8hantanu's [blog](https://github.com/8hantanu/8hantanu.github.io) and use its 💎 awesome homepage image.
+Refer to the layout codes from 8hantanu's [blog](https://github.com/8hantanu/8hantanu.github.io) and use its 💎 awesome homepage image.
 
 ## Thanks
 
