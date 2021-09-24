@@ -10,7 +10,7 @@ Xian Jianbo, born and brought up in Hejiang, a small county near Changjiang Rive
 
 Revieced a Bachelor's degree of Engineering in Computer Science and Technology from Beijing Forestry University. 
 
-Currently an Engineer at Baidu, focusing on Golang and Data Analysis. 
+Currently a Software Engineer at Baidu. 
 
 Love Rock music (The Cure/Beach house...) , curious about everything.
 

@@ -16,10 +16,11 @@
   }
 }
 
+// Homepage Posts entry title
 .entry-title {
   @include fluid-type($min-vw, $max-vw, 18px, 24px);
   margin-bottom: 0.5rem;
-  color: tint($text-color, 25%);
+  color: tint($text-color, 5%);
   line-height: inherit;
 
   a {
@@ -250,13 +251,6 @@
 
 
 .entry-content {
-
-  text-align: justify; /*调整文章内容文字排版为两端对齐*/
-  
-  > p:first-child {
-    font-size: 1.125em;
-    line-height: 1.625;
-  }
 
   h1,
   h2,

@@ -11,8 +11,8 @@
     padding: 0 0.5rem;
 
     @include breakpoint($small) {
-      padding-right: 1rem;
-      padding-left: 1rem;
+      padding-right: 2rem;
+      padding-left: 2rem;
     }
 
     @include breakpoint($medium) {
