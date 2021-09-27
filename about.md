@@ -11,8 +11,6 @@ Revieced a Bachelor's degree of Engineering in Computer Science and Technology f
 
 Currently a Software Engineer @Baidu. 
 
-Love Rock Music (The Cure/Beach house...), curious about everything.
-
 Find more at: 
 * [Douban](https://www.douban.com/people/129093748/)
 * [Weibo](https://weibo.com/xianjianbo)
@@ -21,7 +19,7 @@ Find more at:
 Please feel free to contact me :)
 
 ## Why Blog
-Recording, and maybe sharing.
+Recording.
 
 ## License
 All text on this site is available under the [Creative Commons Attribution-Noncommercial License](https://en.wikipedia.org/wiki/Creative_Commons_license).
